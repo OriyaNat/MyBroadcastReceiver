@@ -13,8 +13,8 @@
             <!--            android:enabled="true"-->
             <!--            android:exported="false">-->
             <intent-filter>
-                <!--                android:enabled="true"-->
-                <!--                android:exported = "false">-->
+                android:enabled="true"
+                android:exported = "true">
                 <action android:name="com.android.ACCEPTED_OFFER"/>
                 <!--                <category android:name="android.intent.category.LAUNCHER" />-->
 
